@@ -49,11 +49,18 @@ p {
 button {
     background: #017143;
     color: #fff;
+    font-size: 16px;
     border-radius: 40px;
     border: none;
     cursor: pointer;
-    padding: 10px;
+    padding: 20px;
     margin-top: 35px;
+}
+
+.starbucks:hover {
+    transform: translateY(-25px);
+    transition: 1s;
+    cursor: pointer;
 }
 
 .botao-menu {
@@ -72,6 +79,7 @@ button {
     display: flex;
     justify-content: flex-end;
     margin-top: 250px;
+    margin-bottom: -90px;
 }
 
 .container-menu {
