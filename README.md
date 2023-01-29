@@ -1,9 +1,10 @@
 <h1 align=center> STARBUCKS ☕ </h1>
 
 
-<p align=center> Utilizei HTML para estruturar a página, CSS para aplicar os estilos e JavaScript para aplicar as animações. <a href="https://raquelferreira1.github.io/Starbucks/"</a> 
+<h4 align=center> Página inicial para uma companhia de cafeterias.
+Utilizei HTML para estruturar a página, CSS para aplicar os estilos e JavaScript para aplicar as animações. <a href="https://raquelferreira1.github.io/Starbucks/"</a> 
 <br>
-Veja aqui como ficou :point_left: </p>
+Veja aqui como ficou :point_left: </h4>
 
 <h3 align=center><b> :hammer_and_wrench:Tecnologias utilizadas: <br><br>
 
